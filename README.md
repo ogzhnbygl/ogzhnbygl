@@ -20,9 +20,8 @@ Tek bir çatı altında çalışan modüler bir ekosistem geliştiriyorum: **ort
 
 - **[pdfparse](https://github.com/ogzhnbygl/pdfparse)** — Akademik PDF'leri temiz Markdown'a çevirir. LLM yok, model yok, ağ çağrısı yok: aynı PDF her zaman aynı çıktıyı verir.
 
-### 🎓 Eğitim
+### 🎓 Eğitim Oyunları
 
-- **[VivoLearn](https://github.com/ogzhnbygl/vivolearn)** — Video ders, quiz ve ilerleme takibi (Next.js 15 + Supabase, RLS)
 - **[Envelope-Storm](https://github.com/ogzhnbygl/Envelope-Storm)** · **[Vocab Mice](https://github.com/ogzhnbygl/vocab-mice)** — Akıllı tahta için gerçek zamanlı sınıf içi İngilizce oyunları
 
 ### ⚙️ Teknolojiler
